@@ -1,4 +1,4 @@
-Jeopardy application for Windows
+Jeopardy application for Windows.\n
 You can create questions and Teams for a Jeopardy Game.
 
 # Questions
