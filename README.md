@@ -1,5 +1,5 @@
 Jeopardy application for Windows  
-You can create questions and Teams for a Jeopardy Game  
+You can create questions and teams for a game of Jeopardy  
 
 # Features
 - Save file | You can save your quiz in file so you can load it up when you need it
