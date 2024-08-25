@@ -1,9 +1,9 @@
-Jeopardy application for Windows.\n
-You can create questions and Teams for a Jeopardy Game.
+Jeopardy application for Windows  
+You can create questions and Teams for a Jeopardy Game.  
 
 # Questions
-For each question you can set a text anwser and you can include multiple choice options.
-You can also customize how much points each questions grants.
+For each question you can set a text anwser and you can include multiple choice options.  
+You can also customize how much points each questions grants.  
 
 # Supported Quesiton Types
 - Text based questions
