@@ -10,7 +10,7 @@ You can also customize how much points each questions grants.
 - Image based questions
 - Audio based quetions
 
-#Features
+# Features
 - Save file | You can save your quiz in file so you can load it up when you need it
 - Customizable background with some presets
 - Teams to keep track of points (you can also edit the points in game in case you fucked up)
