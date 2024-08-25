@@ -16,3 +16,6 @@ You can also customize how much points each questions grants
 - Teams to keep track of points (you can also edit the points during a round)
 - Boards with 6 categorys | 1 category contains 5 Questions
 - Category order can be customized pre game
+  
+This is just a hobby project so dont expect frequent updates.  
+Feature requests / Bug reports are welcome
